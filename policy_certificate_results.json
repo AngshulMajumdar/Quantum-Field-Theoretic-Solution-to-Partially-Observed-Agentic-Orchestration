@@ -1,0 +1,129 @@
+{
+  "0.15": {
+    "actual_loss": {
+      "mean": 0.003441079193238624,
+      "std": 0.003918218855237698
+    },
+    "max_value_error": {
+      "mean": 0.06874355409272319,
+      "std": 0.0021105168835413054
+    },
+    "policy_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "policy_certificate": {
+      "mean": 0.9701815913099879,
+      "std": 3.387607712450221e-16
+    },
+    "tv_certificate": {
+      "mean": 0.07485969068749915,
+      "std": 5.646012854083702e-17
+    },
+    "value_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "value_certificate": {
+      "mean": 0.48509079565499397,
+      "std": 1.6938038562251105e-16
+    }
+  },
+  "0.35": {
+    "actual_loss": {
+      "mean": 0.01805873720554246,
+      "std": 0.010544456389991132
+    },
+    "max_value_error": {
+      "mean": 0.15810419030535036,
+      "std": 0.005425572345049791
+    },
+    "policy_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "policy_certificate": {
+      "mean": 2.2451276455371953,
+      "std": 0.0
+    },
+    "tv_certificate": {
+      "mean": 0.17323515783466006,
+      "std": 5.646012854083702e-17
+    },
+    "value_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "value_certificate": {
+      "mean": 1.1225638227685977,
+      "std": 0.0
+    }
+  },
+  "0.6": {
+    "actual_loss": {
+      "mean": 0.046065920078584725,
+      "std": 0.02201341666240392
+    },
+    "max_value_error": {
+      "mean": 0.25795692513550733,
+      "std": 0.009317183568391525
+    },
+    "policy_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "policy_certificate": {
+      "mean": 3.7754114573726167,
+      "std": 1.8067241133067846e-15
+    },
+    "tv_certificate": {
+      "mean": 0.29131261245159107,
+      "std": 1.6938038562251105e-16
+    },
+    "value_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "value_certificate": {
+      "mean": 1.8877057286863084,
+      "std": 9.033620566533923e-16
+    }
+  },
+  "0.9": {
+    "actual_loss": {
+      "mean": 0.09100864062929982,
+      "std": 0.031130690945497887
+    },
+    "max_value_error": {
+      "mean": 0.35093053276807035,
+      "std": 0.013353152471707022
+    },
+    "policy_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "policy_certificate": {
+      "mean": 5.467811108040107,
+      "std": 4.516810283266961e-15
+    },
+    "tv_certificate": {
+      "mean": 0.4218990052500081,
+      "std": 2.2584051416334807e-16
+    },
+    "value_bound_holds": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "value_certificate": {
+      "mean": 2.7339055540200534,
+      "std": 2.2584051416334805e-15
+    }
+  },
+  "metadata": {
+    "H": 3,
+    "elapsed_s": 0.004276852,
+    "n_policies": 128,
+    "n_seeds": 30,
+    "operator_osc_norm": 1.0
+  }
+}

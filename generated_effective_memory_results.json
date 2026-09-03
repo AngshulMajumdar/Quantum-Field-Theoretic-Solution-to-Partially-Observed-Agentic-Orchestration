@@ -1,0 +1,794 @@
+{
+  "models": [
+    {
+      "acc": 0.7828535330102977,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.12482572837591772,
+        "policy_loss": 0.027628031672678584,
+        "retained_history_mass": 0.7775187996617078
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.3930665069097198,
+        "policy_loss": 0.11725665049867966,
+        "retained_history_mass": 0.3472515761527206
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.4531684618234638,
+        "policy_loss": 0.11725665049867966,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 5.551115123125783e-17,
+      "prior_plus": 0.6232665820873344,
+      "stay": 0.7715409815755114
+    },
+    {
+      "acc": 0.7557395062214819,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.1486431050190397,
+        "policy_loss": 0.028225629661004326,
+        "retained_history_mass": 0.5839529479702067
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.1486431050190397,
+        "policy_loss": 0.028225629661004326,
+        "retained_history_mass": 0.5839529479702067
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5031580340173086,
+        "policy_loss": 0.16018706839597552,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.5095904096551278,
+      "stay": 0.8209078307697079
+    },
+    {
+      "acc": 0.838060076407709,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.17828799856438649,
+        "policy_loss": 0.03543319923096109,
+        "retained_history_mass": 0.7991573179213103
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.28996664946888157,
+        "policy_loss": 0.03543319923096109,
+        "retained_history_mass": 0.6353847359819331
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5706453542208526,
+        "policy_loss": 0.15305552289078944,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.634485044399812,
+      "stay": 0.7961569579444238
+    },
+    {
+      "acc": 0.7306590587904236,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.13581529448518204,
+        "policy_loss": 0.024239066513483357,
+        "retained_history_mass": 0.5680062891587416
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.13581529448518204,
+        "policy_loss": 0.024239066513483357,
+        "retained_history_mass": 0.5680062891587416
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.46241814430225775,
+        "policy_loss": 0.14033687990952023,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.5173342594941128,
+      "stay": 0.8195567939319879
+    },
+    {
+      "acc": 0.7320866268441312,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.014235719896628581,
+        "policy_loss": -1.4885650677061874e-17,
+        "retained_history_mass": 0.7790495399992108
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.25377818393438345,
+        "policy_loss": -1.4885650677061874e-17,
+        "retained_history_mass": 0.5773797078819713
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6247938223756843,
+        "policy_loss": 0.09377752085382147,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.6474454047514855,
+      "stay": 0.8591425496518469
+    },
+    {
+      "acc": 0.6840951825942309,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.020517811719885693,
+        "policy_loss": -8.564144575679528e-18,
+        "retained_history_mass": 0.7666948669555365
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.32084576484632843,
+        "policy_loss": 0.07288155316941317,
+        "retained_history_mass": 0.31233235280981747
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5017597483640583,
+        "policy_loss": 0.07288155316941317,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.6239507878782242,
+      "stay": 0.8483844449136629
+    },
+    {
+      "acc": 0.8608422724913609,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.0,
+        "policy_loss": -2.5897801196491578e-18,
+        "retained_history_mass": 1.0
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.2650013473776978,
+        "policy_loss": 0.04369196991344864,
+        "retained_history_mass": 0.622419132977557
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.43138784333023394,
+        "policy_loss": 0.19283006365956495,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.3950153465568851,
+      "stay": 0.7350468793354534
+    },
+    {
+      "acc": 0.7114155288737585,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.0146678878585012,
+        "policy_loss": 1.289754012115261e-17,
+        "retained_history_mass": 0.7692398377195586
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.3467511647514646,
+        "policy_loss": 0.044624967704513616,
+        "retained_history_mass": 0.3258868807871402
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.49738867634868017,
+        "policy_loss": 0.19455281559653087,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.3660291337884482,
+      "stay": 0.8256869925325326
+    },
+    {
+      "acc": 0.6847935028695047,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.05658896586968673,
+        "policy_loss": 0.013052730364397436,
+        "retained_history_mass": 0.7690952616367581
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.33943178924667905,
+        "policy_loss": 0.061192710302982435,
+        "retained_history_mass": 0.31896034615771657
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5704999270945038,
+        "policy_loss": 0.2256889597675396,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.36507890227025014,
+      "stay": 0.8726042978441442
+    },
+    {
+      "acc": 0.8213060724235475,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.18606970267731013,
+        "policy_loss": 0.03873007800790649,
+        "retained_history_mass": 0.7894551383640867
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.2256362202928082,
+        "policy_loss": 0.03873007800790649,
+        "retained_history_mass": 0.6020345284235993
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.4254262284701323,
+        "policy_loss": 0.1414078578536843,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 5.551115123125783e-17,
+      "prior_plus": 0.5711405192155192,
+      "stay": 0.7470866626020469
+    },
+    {
+      "acc": 0.8268255150660344,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.1445831516919997,
+        "policy_loss": 0.027521886268484706,
+        "retained_history_mass": 0.8083221014552555
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.27988923064451815,
+        "policy_loss": 0.027521886268484706,
+        "retained_history_mass": 0.641763666723739
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6609343443442772,
+        "policy_loss": 0.16657511891427984,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.6142356959048154,
+      "stay": 0.831797445313746
+    },
+    {
+      "acc": 0.7187934849466637,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.053432704019252826,
+        "policy_loss": 0.01176642359630821,
+        "retained_history_mass": 0.7795803224626304
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.251541842296637,
+        "policy_loss": 0.06253426619846625,
+        "retained_history_mass": 0.5735147942132861
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6736739133256643,
+        "policy_loss": 0.26307643114705326,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.358699716483972,
+      "stay": 0.8839246375716203
+    },
+    {
+      "acc": 0.6815807569550242,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.17477530535899344,
+        "policy_loss": 0.04142599150786667,
+        "retained_history_mass": 0.5486442356882163
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.36949676532862774,
+        "policy_loss": 0.04142599150786667,
+        "retained_history_mass": 0.3035724632526928
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5246745147790911,
+        "policy_loss": 0.18753534241995037,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.40729694770631825,
+      "stay": 0.8688346792073199
+    },
+    {
+      "acc": 0.8194254761344727,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.18443123659465835,
+        "policy_loss": 0.038672991093447774,
+        "retained_history_mass": 0.7879400126560528
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.39133111431615375,
+        "policy_loss": 0.1381636015005645,
+        "retained_history_mass": 0.331230315181003
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.40953472705344923,
+        "policy_loss": 0.1381636015005645,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.5677627580755733,
+      "stay": 0.7408887069122888
+    },
+    {
+      "acc": 0.88619644650118,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.1644126435561776,
+        "policy_loss": 0.02105729925661328,
+        "retained_history_mass": 0.8707721336593146
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.27185569342519056,
+        "policy_loss": 0.02105729925661328,
+        "retained_history_mass": 0.7488419556470776
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.27185569342519056,
+        "policy_loss": 0.02105729925661328,
+        "retained_history_mass": 0.7488419556470776
+      },
+      "max_fit_err": 1.5265566588595902e-16,
+      "prior_plus": 0.5569897986646799,
+      "stay": 0.9171066055747665
+    },
+    {
+      "acc": 0.8010179447051812,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.18925837942117546,
+        "policy_loss": 0.03574220834545798,
+        "retained_history_mass": 0.6088444163398814
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.18925837942117546,
+        "policy_loss": 0.03574220834545798,
+        "retained_history_mass": 0.6088444163398814
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5181696946587143,
+        "policy_loss": 0.17897021406208619,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.5050555365792238,
+      "stay": 0.8003041896716302
+    },
+    {
+      "acc": 0.7216395211293005,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.17548787134174093,
+        "policy_loss": 0.01220025976052075,
+        "retained_history_mass": 0.5659286250160146
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.17548787134174093,
+        "policy_loss": 0.01220025976052075,
+        "retained_history_mass": 0.5659286250160146
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5112435471285766,
+        "policy_loss": 0.11404894833615675,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.5770168026135285,
+      "stay": 0.8355209329323584
+    },
+    {
+      "acc": 0.7216762033404144,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.15515199623424264,
+        "policy_loss": 0.03335604895860838,
+        "retained_history_mass": 0.5549269934272061
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.38400504392474616,
+        "policy_loss": 0.14249520063782803,
+        "retained_history_mass": 0.0
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.38400504392474616,
+        "policy_loss": 0.14249520063782803,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.4404343842339071,
+      "stay": 0.7794394300209273
+    },
+    {
+      "acc": 0.745348444967517,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.19346372170349918,
+        "policy_loss": 0.03924649869552967,
+        "retained_history_mass": 0.5681323316805531
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.36544652019335383,
+        "policy_loss": 0.03924649869552967,
+        "retained_history_mass": 0.3221137166582604
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.4328214175790138,
+        "policy_loss": 0.17056469421844692,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.40096852471110656,
+      "stay": 0.7829610387880299
+    },
+    {
+      "acc": 0.8757377361975387,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.16710994223500977,
+        "policy_loss": 7.765930458556956e-18,
+        "retained_history_mass": 0.8601014339226309
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.27078581540551233,
+        "policy_loss": 0.034767850119488,
+        "retained_history_mass": 0.7285823270048066
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.27078581540551233,
+        "policy_loss": 0.034767850119488,
+        "retained_history_mass": 0.7285823270048066
+      },
+      "max_fit_err": 4.440892098500626e-16,
+      "prior_plus": 0.4414512766528745,
+      "stay": 0.9047743922495145
+    },
+    {
+      "acc": 0.8223615347619443,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.12814154168872866,
+        "policy_loss": 0.0,
+        "retained_history_mass": 0.804884633644836
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.2893254118054654,
+        "policy_loss": 0.046889276084215795,
+        "retained_history_mass": 0.6383234367183102
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6623229524973738,
+        "policy_loss": 0.2732042310790235,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.3675772964561913,
+      "stay": 0.8327739714580316
+    },
+    {
+      "acc": 0.8971409267142507,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.0,
+        "policy_loss": 4.039383263528362e-17,
+        "retained_history_mass": 1.0
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.31474317329727697,
+        "policy_loss": 0.046202932195139976,
+        "retained_history_mass": 0.6559246692800245
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.48538748645068824,
+        "policy_loss": 0.2211603087480415,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.3982912472587097,
+      "stay": 0.7471528088335933
+    },
+    {
+      "acc": 0.7972230371812054,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.13081043369043535,
+        "policy_loss": 0.025586783363072147,
+        "retained_history_mass": 0.8032835909245739
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.21891680559181412,
+        "policy_loss": 0.025586783363072147,
+        "retained_history_mass": 0.6191599602447029
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6280593383298755,
+        "policy_loss": 0.1708594917669264,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.565067135787637,
+      "stay": 0.8372138649764745
+    },
+    {
+      "acc": 0.8732196404727771,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.0,
+        "policy_loss": -5.5668398958449714e-18,
+        "retained_history_mass": 1.0
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.2865079383086846,
+        "policy_loss": 0.045872737523207335,
+        "retained_history_mass": 0.644893635637313
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.4994448049463896,
+        "policy_loss": 0.21387740844748193,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.42693638336043627,
+      "stay": 0.7600520837768681
+    },
+    {
+      "acc": 0.7891465089797685,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.18540107369680214,
+        "policy_loss": 0.00976153092256608,
+        "retained_history_mass": 0.637310746561163
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.18540107369680214,
+        "policy_loss": 0.00976153092256608,
+        "retained_history_mass": 0.637310746561163
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.18540107369680214,
+        "policy_loss": 0.00976153092256608,
+        "retained_history_mass": 0.637310746561163
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.557381013924402,
+      "stay": 0.9105902485058613
+    },
+    {
+      "acc": 0.8759632559097388,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.0,
+        "policy_loss": -8.840566856869208e-18,
+        "retained_history_mass": 1.0
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.33048404997745406,
+        "policy_loss": 0.043741033331732036,
+        "retained_history_mass": 0.7036042128705865
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.33048404997745406,
+        "policy_loss": 0.043741033331732036,
+        "retained_history_mass": 0.7036042128705865
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.3948572332896221,
+      "stay": 0.8601106492543125
+    },
+    {
+      "acc": 0.7770012306182132,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.16814093170523156,
+        "policy_loss": 0.03426375957080016,
+        "retained_history_mass": 0.579866743363414
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.3989523829463921,
+        "policy_loss": 0.1426835736832347,
+        "retained_history_mass": 0.0
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.3989523829463921,
+        "policy_loss": 0.1426835736832347,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.505462532436629,
+      "stay": 0.7602211475640482
+    },
+    {
+      "acc": 0.8881151117197673,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.0,
+        "policy_loss": 1.2525332913351447e-17,
+        "retained_history_mass": 1.0
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.3179497860228769,
+        "policy_loss": 0.04816182546312028,
+        "retained_history_mass": 0.6719997867686409
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.5783875422688487,
+        "policy_loss": 0.19906059080653368,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 2.220446049250313e-16,
+      "prior_plus": 0.5690987675779171,
+      "stay": 0.785461018840782
+    },
+    {
+      "acc": 0.6939875567480579,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.18582195260447906,
+        "policy_loss": -2.4464905089305315e-17,
+        "retained_history_mass": 0.5592794502246001
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.18582195260447906,
+        "policy_loss": -2.4464905089305315e-17,
+        "retained_history_mass": 0.5592794502246001
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6162797073103865,
+        "policy_loss": 0.10189192907700761,
+        "retained_history_mass": 0.0
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.5938552893721373,
+      "stay": 0.8938187864036624
+    },
+    {
+      "acc": 0.7565429913913165,
+      "kappa_0.20": {
+        "certificate": 0.19933598924991164,
+        "max_eta": 0.12844257261377084,
+        "policy_loss": 0.02508832327226679,
+        "retained_history_mass": 0.6050545846885467
+      },
+      "kappa_0.40": {
+        "certificate": 0.394750640449808,
+        "max_eta": 0.12844257261377084,
+        "policy_loss": 0.02508832327226679,
+        "retained_history_mass": 0.6050545846885467
+      },
+      "kappa_0.70": {
+        "certificate": 0.6727510886726644,
+        "max_eta": 0.6906250445521255,
+        "policy_loss": 0.02508832327226679,
+        "retained_history_mass": 0.3120803648977111
+      },
+      "max_fit_err": 1.1102230246251565e-16,
+      "prior_plus": 0.47929068193112434,
+      "stay": 0.8990567947300405
+    }
+  ],
+  "summary": {
+    "effective_action_fit_error": {
+      "max": 4.440892098500626e-16,
+      "mean": 1.49417515397469e-16,
+      "std": 7.728400812223809e-17
+    },
+    "kappa_0.20": {
+      "all_certified": true,
+      "certificate": {
+        "mean": 0.19933598924991172,
+        "std": 8.469019281125553e-17
+      },
+      "max_eta": {
+        "mean": 0.11361725575409119,
+        "std": 0.07378955465705826
+      },
+      "policy_loss": {
+        "mean": 0.01743329133539913,
+        "std": 0.015690468212922585
+      },
+      "retained_history_mass": {
+        "mean": 0.7515014118367336,
+        "std": 0.15340924268246325
+      }
+    },
+    "kappa_0.40": {
+      "all_certified": true,
+      "certificate": {
+        "mean": 0.39475064044980773,
+        "std": 2.8230064270418506e-16
+      },
+      "max_eta": {
+        "mean": 0.2774859816498285,
+        "std": 0.08027890448262538
+      },
+      "policy_loss": {
+        "mean": 0.048513963437725585,
+        "std": 0.038525787676156865
+      },
+      "retained_history_mass": {
+        "mean": 0.5151183753777351,
+        "std": 0.19597962209365974
+      }
+    },
+    "kappa_0.70": {
+      "all_certified": true,
+      "certificate": {
+        "mean": 0.6727510886726644,
+        "std": 0.0
+      },
+      "max_eta": {
+        "mean": 0.49245631116492494,
+        "std": 0.12628296888544926
+      },
+      "policy_loss": {
+        "mean": 0.14368526714476001,
+        "std": 0.06998333124784539
+      },
+      "retained_history_mass": {
+        "mean": 0.10434732023271148,
+        "std": 0.2466019838535655
+      }
+    },
+    "kappas": [
+      0.2,
+      0.4,
+      0.7
+    ],
+    "nseed": 30
+  }
+}

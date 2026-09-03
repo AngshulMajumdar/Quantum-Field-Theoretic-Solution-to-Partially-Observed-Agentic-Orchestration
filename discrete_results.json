@@ -1,0 +1,60 @@
+{
+  "RockSample4x4": {
+    "BSD (exact factor family)": {
+      "ms_episode_mean": 0.0006518345833333333,
+      "ms_episode_std": 0.00010487435384101496,
+      "return_mean": 14.13158062682081,
+      "return_std": 0.8819144285987799
+    },
+    "Finite window W=1": {
+      "ms_episode_mean": 0.0008043137499999999,
+      "ms_episode_std": 0.00017226760123993483,
+      "return_mean": 14.13158062682081,
+      "return_std": 0.8819144285987799
+    },
+    "Finite window W=2": {
+      "ms_episode_mean": 0.0010599070833333334,
+      "ms_episode_std": 0.00022624264309060335,
+      "return_mean": 14.13158062682081,
+      "return_std": 0.8819144285987799
+    },
+    "Particle belief N=64": {
+      "ms_episode_mean": 0.02209550333333333,
+      "ms_episode_std": 0.001336253997227713,
+      "return_mean": 12.214683313400535,
+      "return_std": 1.0714419856909683
+    },
+    "QMDP-style no-check": {
+      "ms_episode_mean": 0.0006017020833333334,
+      "ms_episode_std": 0.00023517570827292911,
+      "return_mean": 4.210892848579161,
+      "return_std": 1.4676487872626962
+    }
+  },
+  "Tiger": {
+    "BSD (exact-belief family)": {
+      "ms_episode_mean": 0.004870697666666667,
+      "ms_episode_std": 0.00025366898328446614,
+      "return_mean": 19.183072780343917,
+      "return_std": 3.5248978999411116
+    },
+    "Finite window W=1": {
+      "ms_episode_mean": 0.005303255333333335,
+      "ms_episode_std": 0.0009947074464513408,
+      "return_mean": -19.88158941559323,
+      "return_std": 1.0840344679840707e-14
+    },
+    "Finite window W=2": {
+      "ms_episode_mean": 0.005487322333333333,
+      "ms_episode_std": 0.0003559146994346795,
+      "return_mean": 11.381118489833707,
+      "return_std": 3.151902961985537
+    },
+    "QMDP": {
+      "ms_episode_mean": 0.003063913666666667,
+      "ms_episode_std": 0.00018134615021123772,
+      "return_mean": -890.6401434306576,
+      "return_std": 13.314110066484469
+    }
+  }
+}

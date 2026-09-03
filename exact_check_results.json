@@ -1,0 +1,17 @@
+{
+  "marginal_error": {
+    "max": 0.0,
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "observable_error": {
+    "max": 0.0,
+    "mean": 0.0,
+    "std": 0.0
+  },
+  "path_log_error": {
+    "max": 0.0,
+    "mean": 0.0,
+    "std": 0.0
+  }
+}
